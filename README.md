@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @noobarter
+- 👋 Hi, I’m @noofarter
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-noobarter/noobarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----I AM TURKISH ARTER
+- I am Anime Fan and I love anime so much
+  
